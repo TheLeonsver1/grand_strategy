@@ -1,0 +1,315 @@
+TextureAssets(
+ assets:[
+    TextureAsset(
+        FileName("parchmentAncient.png"),
+        KeyToHM("Background")
+    ),
+    TextureAsset(
+        FileName("banner.png"),
+        KeyToHM("Banner")
+    ),
+    TextureAsset(
+        FileName("bridge.png"),
+        KeyToHM("Bridge")
+    ),
+    TextureAsset(
+        FileName("bridgeRope.png"),
+        KeyToHM("Rope Bridge")
+    ),
+    TextureAsset(
+        FileName("bush.png"),
+        KeyToHM("Bush")
+    ),
+    TextureAsset(
+        FileName("cactus.png"),
+        KeyToHM("Cactus")
+    ),
+    TextureAsset(
+        FileName("cactusLarge.png"),
+        KeyToHM("Large Cactus")
+    ),
+    TextureAsset(
+        FileName("campfire.png"),
+        KeyToHM("Campfire")
+    ),
+    TextureAsset(
+        FileName("castle.png"),
+        KeyToHM("Castle")
+    ),
+    TextureAsset(
+        FileName("castleTall.png"),
+        KeyToHM("Tall Castle")
+    ),
+    TextureAsset(
+        FileName("castleWide.png"),
+        KeyToHM("Wide Castle")
+    ),
+    TextureAsset(
+        FileName("castleWideLow.png"),
+        KeyToHM("Low Wide Castle")
+    ),
+    TextureAsset(
+        FileName("chest.png"),
+        KeyToHM("Chest")
+    ),
+    TextureAsset(
+        FileName("church.png"),
+        KeyToHM("Church")
+    ),
+    TextureAsset(
+        FileName("churchLarge.png"),
+        KeyToHM("Large Church")
+    ),
+    TextureAsset(
+        FileName("compass.png"),
+        KeyToHM("Compass")
+    ),
+    TextureAsset(
+        FileName("dock.png"),
+        KeyToHM("Dock")
+    ),
+    TextureAsset(
+        FileName("elementCircle.png"),
+        KeyToHM("Circle Element")
+    ),
+    TextureAsset(
+        FileName("elementCross.png"),
+        KeyToHM("Cross Element")
+    ),
+    TextureAsset(
+        FileName("elementDiamond.png"),
+        KeyToHM("Diamond Element")
+    ),
+    TextureAsset(
+        FileName("elementShield.png"),
+        KeyToHM("Shield Element")
+    ),
+    TextureAsset(
+        FileName("elementSquare.png"),
+        KeyToHM("Square Element")
+    ),
+    TextureAsset(
+        FileName("fence.png"),
+        KeyToHM("Fence")
+    ),
+    TextureAsset(
+        FileName("flag.png"),
+        KeyToHM("Flag")
+    ),
+    TextureAsset(
+        FileName("gate.png"),
+        KeyToHM("Gate")
+    ),
+    TextureAsset(
+        FileName("graveyard.png"),
+        KeyToHM("Graveyard")
+    ),
+    TextureAsset(
+        FileName("house.png"),
+        KeyToHM("House")
+    ),
+    TextureAsset(
+        FileName("houseChimney.png"),
+        KeyToHM("House With Chimney")
+    ),
+    TextureAsset(
+        FileName("houses.png"),
+        KeyToHM("Houses")
+    ),
+    TextureAsset(
+        FileName("houseSmall.png"),
+        KeyToHM("Small House")
+    ),
+    TextureAsset(
+        FileName("houseTall.png"),
+        KeyToHM("Tall House")
+    ),
+    TextureAsset(
+        FileName("houseViking.png"),
+        KeyToHM("Viking House")
+    ),
+    TextureAsset(
+        FileName("lake.png"),
+        KeyToHM("Lake")
+    ),
+    TextureAsset(
+        FileName("lakeRound.png"),
+        KeyToHM("Round Lake")
+    ),
+    TextureAsset(
+        FileName("lighthouse.png"),
+        KeyToHM("LightHouse")
+    ),
+    TextureAsset(
+        FileName("mill.png"),
+        KeyToHM("Mill")
+    ),
+    TextureAsset(
+        FileName("mine.png"),
+        KeyToHM("Mine")
+    ),
+    TextureAsset(
+        FileName("palmLarge.png"),
+        KeyToHM("LargePalm")
+    ),
+    TextureAsset(
+        FileName("pathCorner.png"),
+        KeyToHM("Path Corner")
+    ),
+    TextureAsset(
+        FileName("pathCrossing.png"),
+        KeyToHM("Path Crossing")
+    ),
+    TextureAsset(
+        FileName("pathEnd.png"),
+        KeyToHM("Path End")
+    ),
+    TextureAsset(
+        FileName("pathSplit.png"),
+        KeyToHM("Path Split")
+    ),
+    TextureAsset(
+        FileName("pathStraight.png"),
+        KeyToHM("Path Straight")
+    ),
+    TextureAsset(
+        FileName("pyramid.png"),
+        KeyToHM("Pyramid")
+    ),
+    TextureAsset(
+        FileName("rocks.png"),
+        KeyToHM("Rocks")
+    ),
+    TextureAsset(
+        FileName("rocksA.png"),
+        KeyToHM("Rocks A")
+    ),
+    TextureAsset(
+        FileName("rocksB.png"),
+        KeyToHM("Rocks B")
+    ),
+    TextureAsset(
+        FileName("rocksMountain.png"),
+        KeyToHM("Rocks Mountain")
+    ),
+    TextureAsset(
+        FileName("rocksTall.png"),
+        KeyToHM("Tall Rocks")
+    ),
+    TextureAsset(
+        FileName("ruins.png"),
+        KeyToHM("Ruins")
+    ),
+    TextureAsset(
+        FileName("ship.png"),
+        KeyToHM("Ship")
+    ),
+    TextureAsset(
+        FileName("skull.png"),
+        KeyToHM("Skull")
+    ),
+    TextureAsset(
+        FileName("stable.png"),
+        KeyToHM("Stable")
+    ),
+    TextureAsset(
+        FileName("tent.png"),
+        KeyToHM("Tent")
+    ),
+    TextureAsset(
+        FileName("textureBricks.png"),
+        KeyToHM("Bricks Texture")
+    ),
+    TextureAsset(
+        FileName("textureStone.png"),
+        KeyToHM("Stone Texture")
+    ),
+    TextureAsset(
+        FileName("textureWater.png"),
+        KeyToHM("Water Texture")
+    ),
+    TextureAsset(
+        FileName("tipi.png"),
+        KeyToHM("Tipi")
+    ),
+    TextureAsset(
+        FileName("tower.png"),
+        KeyToHM("Tower")
+    ),
+    TextureAsset(
+        FileName("towerLow.png"),
+        KeyToHM("Low Tower")
+    ),
+    TextureAsset(
+        FileName("towerTall.png"),
+        KeyToHM("Tall Tower")
+    ),
+    TextureAsset(
+        FileName("towerWatch.png"),
+        KeyToHM("Tower Watch")
+    ),
+    TextureAsset(
+        FileName("treePine.png"),
+        KeyToHM("Pine Tree")
+    ),
+    TextureAsset(
+        FileName("treePineLarge.png"),
+        KeyToHM("Large Pine Tree")
+    ),
+    TextureAsset(
+        FileName("treePines.png"),
+        KeyToHM("Pine Trees")
+    ),
+    TextureAsset(
+        FileName("treePinesSmall.png"),
+        KeyToHM("Small Pine Trees")
+    ),
+    TextureAsset(
+        FileName("treePineTall.png"),
+        KeyToHM("Tall Pine Tree")
+    ),
+    TextureAsset(
+        FileName("treePineTallLarge.png"),
+        KeyToHM("Large Tall Pine Tree")
+    ),
+    TextureAsset(
+        FileName("treePineTallLow.png"),
+        KeyToHM("Low Tall Pine Tree")
+    ),
+    TextureAsset(
+        FileName("treeTall.png"),
+        KeyToHM("Tall Tree")
+    ),
+    TextureAsset(
+        FileName("vulcano.png"),
+        KeyToHM("Vulcano")
+    ),
+    TextureAsset(
+        FileName("wall.png"),
+        KeyToHM("Wall")
+    ),
+    TextureAsset(
+        FileName("watchtower.png"),
+        KeyToHM("Watch Tower")
+    ),
+    TextureAsset(
+        FileName("waterWheel.png"),
+        KeyToHM("Water Wheel")
+    ),
+    TextureAsset(
+        FileName("well.png"),
+        KeyToHM("Well")
+    ),
+    TextureAsset(
+        FileName("blacksmith.png"),
+        KeyToHM("Blacksmith")
+    ),
+    TextureAsset(
+        FileName("farm.png"),
+        KeyToHM("Farm")
+    ),
+
+ ]
+)
+
+
